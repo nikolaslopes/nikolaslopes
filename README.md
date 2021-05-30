@@ -1,4 +1,4 @@
-##Heeell yeah! Eu sou o Nicks ^^
+<strong>Heeell yeah! Eu sou o Nicks ^^<strong>
   <div>
     <href="https://github.com/nikolaslopes">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
