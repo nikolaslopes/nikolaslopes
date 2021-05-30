@@ -1,5 +1,5 @@
   <h2>
-     <strong>Heeell yeah! Eu sou o Nicks ^^<strong>
+     <strong>Heeell yeah! I'm Nix ^^<strong>
   </h2>
   <div>
     <href="https://github.com/nikolaslopes">
