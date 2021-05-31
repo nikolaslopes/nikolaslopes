@@ -4,7 +4,7 @@
   <a href="https://github.com/nikolaslopes" />
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&cache_seconds=1800&locale=en" alt="nikolaslopes" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaslopes&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&locale=en&layout=compact" alt="nikolaslopes" /></p><br>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaslopes&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&locale=en&layout=compact" alt="nikolaslopes" /></p>
 <div>
 
 <div>
@@ -17,7 +17,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </div>
-      <img align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/avatar_nix.jpg?raw=true" alt="react" width="150" height="150"/><br><br>
+      <img align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/avatar_nix.jpg?raw=true" alt="react" width="150" height="150"/>
   <h2></h2>
 <div>
     <a href="mailto: nikolaslopes.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
