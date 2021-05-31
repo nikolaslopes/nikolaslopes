@@ -1,7 +1,7 @@
 <h2>Hi! I'm Nix ^^</h2
 <p align="left">
 <div>
-  <a href="https://github.com/nikolaslopes">
+  <a href="https://github.com/nikolaslopes" />
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&cache_seconds=1800&locale=en" alt="nikolaslopes" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaslopes&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&locale=en&layout=compact" alt="nikolaslopes" /></p><br
