@@ -16,6 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> </a><br><br>
+  <img align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/avatar_nix.jpg?raw=true" alt="react" width="150" height="150"/><br><br>
 </div>
 
 <div>
