@@ -3,7 +3,7 @@
 
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&cache_seconds=1800&locale=en" alt="nikolaslopes" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaslopes&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&locale=en&layout=compact" alt="nikolaslopes" /></p><br><br>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaslopes&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&locale=en&layout=compact" alt="nikolaslopes" /></p><br><br>
 <div>
 
 <div>
