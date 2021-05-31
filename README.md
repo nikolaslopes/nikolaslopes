@@ -2,8 +2,8 @@
 <p align="left">
 
 <div>
-  <p>&nbsp;<img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&cache_seconds=1800&locale=en" alt="nikolaslopes" /></p>
-  <p><img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaslopes&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&locale=en&layout=compact" alt="nikolaslopes" /></p><br><br>
+  <p>&nbsp;<img width="450em" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&cache_seconds=1800&locale=en" alt="nikolaslopes" /></p>
+  <p><img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaslopes&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&locale=en&layout=compact" alt="nikolaslopes" /></p><br><br>
 <div>
 
 <div>
