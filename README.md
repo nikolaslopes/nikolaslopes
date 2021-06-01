@@ -16,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/bootstrap-scm/bootstrap-scm-icon.svg" alt="bootstrap" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="30"/>
   <img align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/avatar_nix.jpg?raw=true" alt="react" width="150" height="150"/>
 
 </div>
