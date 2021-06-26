@@ -1,4 +1,4 @@
-<h2>Hi! I'm Nix :shipit: </h2>
+<h2>Oiii! Eu sou o Nick :shipit: </h2>
 
 <div>
   <a href="https://github.com/nikolaslopes" />
