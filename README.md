@@ -1,4 +1,4 @@
-<h2>Oiii! Eu sou o Nix :shipit: </h2>
+<h2>Oiii! Eu sou o Nix ^^ </h2>
 
 <div>
   <a href="https://github.com/nikolaslopes" />
