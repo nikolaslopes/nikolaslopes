@@ -1,4 +1,4 @@
-<h2>Oiii! Eu me chamo Nikolas Lopes 🧙‍♂️</h2>
+<h2>Oiii! Eu sou o Nikolas Lopes 🧙‍♂️</h2>
 
 <div>
   <a href="https://github.com/nikolaslopes" />
