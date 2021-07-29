@@ -3,10 +3,11 @@
 <div>
   <a href="https://github.com/nikolaslopes" />
 <div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&cache_seconds=1800&locale=en" alt="nikolaslopes" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaslopes&show_icons=true&theme=dracula&title_color=ff6e96&text_color=ffffff&bg_color=282a36&locale=en&layout=compact" alt="nikolaslopes" /><br><br>
-<div>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&show_icons=true&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imateus&langs_count=5"  /><br><br>
 
+<div>
+  
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="35"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="40" height="37"/>
