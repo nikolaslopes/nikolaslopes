@@ -18,8 +18,9 @@
   <img alt="Nix-Firebase" width="40" height="35" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
   <img alt="Nix-Git" width="40" height="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
   <img align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/avatar_nix.jpg?raw=true" alt="react" width="150" height="150" />
+  <br>
 </div>
- 
+
   ##
  
 <div>
