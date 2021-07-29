@@ -1,6 +1,7 @@
 <h2>Oiii! Eu sou o Nikolas Lopes 🧙‍♂️</h2>
 
 <div>
+ <a href="https://github.com/nikolaslopes">
  
   <a href="https://github.com/nikolaslopes">
   <img height=170rem align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&count_private=true&show_icons=true&theme=tokyonight" />
@@ -32,6 +33,6 @@
 </div>
   
   ![Snake animation](https://github.com/nikolaslopes/nikolaslopes/blob/output/github-contribution-grid-snake.svg)
-  
+ </a>
 </div>
  
