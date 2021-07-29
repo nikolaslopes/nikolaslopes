@@ -4,11 +4,11 @@
   <a href="https://github.com/nikolaslopes" />
   
   <a>
-  <img height=170rem align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height=170rem align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&count_private=true&show_icons=true&theme=algolia" />
   </a>
   
   <a>
-  <img height=170rem align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=tokyonight" />
+  <img height=170rem align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=algolia" />
   </a>
   
   <br><br>
