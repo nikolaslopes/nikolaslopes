@@ -4,9 +4,11 @@
   <a href="https://github.com/nikolaslopes" />
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&show_icons=true&theme=tokyonight" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imateus&langs_count=5"  /><br><br>
+<!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&langs_count=5" /> -->
+  <br><br>
 
 <div>
+ 
   
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="35"/>
