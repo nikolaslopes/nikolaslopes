@@ -2,13 +2,16 @@
 
 <div>
   <a href="https://github.com/nikolaslopes" />
-<div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&show_icons=true&theme=tokyonight" />
-<!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&langs_count=5" /> -->
+  
+  <a>
+  <img height=165rem align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+  
+  <a>
+  <img height=165rem align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=tokyonight" />
+  </a>
+  
   <br><br>
-
-<div>
- 
   
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="35"/>
