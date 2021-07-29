@@ -17,7 +17,7 @@
   <img alt="Nix-Docker" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" />
   <img alt="Nix-Firebase" width="40" height="35" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
   <img alt="Nix-Git" width="40" height="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-  <img align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/avatar_nix.jpg?raw=true" alt="react" width="110" height="110" />
+  <img align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/avatar_nix.jpg?raw=true" alt="react" width="140" height="140" />
 </div>
 
   ##
