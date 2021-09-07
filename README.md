@@ -9,6 +9,7 @@
   
 <div style="display: inline_block">
   <img alt="Nix-Js" width="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="Nix-Ts" width="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 <!--   <img alt="Nix-Cpp" width="40" height="37" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/> -->
 <!--   <img alt="Nix-Python" width="40" height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> -->
   <img alt="Nix-Yarn" width="40" height="35" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" />
