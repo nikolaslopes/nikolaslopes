@@ -17,7 +17,7 @@
   <img alt="Nix-Nodejs" width="40" height="35" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
   <img alt="Nix-Docker" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" />
   <img alt="Nix-Git" width="40" height="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-  <img alt="Nix-avatar" width="160" height="160" align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/gamer%20baji%20_33.jpeg" />
+  <img alt="Nix-avatar" width="160" height="160" align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/baji.jpeg" />
 </div>
 
   ##
