@@ -1,8 +1,8 @@
 <h2>Oiii! Eu sou o Nikolas Lopes <img src="tic-computer-icon.svg" alt="robot" align="center" height="30"></h2>
  <div>
   <a href="https://github.com/nikolaslopes">
-  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&count_private=true&show_icons=true&theme=tokyonight" />
-  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=tokyonight" />
+  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&count_private=true&show_icons=true&theme=radical" />
+  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=radical" />
 </div>
   
   <br><br>
