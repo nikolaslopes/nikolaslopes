@@ -1,10 +1,7 @@
 <h2>Oiii! Eu sou o Nikolas Lopes <img src="tic-computer-icon.svg" alt="robot" align="center" height="30"></h2>
  <div>
   <a href="https://github.com/nikolaslopes">
-
- 
- 
- 
+   
 <!--  <p align="center">
   
    ![nix-gif](https://media3.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif?cid=790b76119edce89cd19e7df5869b409d648fa178b1bf6783&rid=giphy.gif&ct=g)
@@ -12,11 +9,11 @@
    ![image](https://user-images.githubusercontent.com/83810486/139331138-c1e8b8fd-3db7-4e65-85d9-9d5430ed6e70.png)
  
  </p> -->
+   
   <div>
    <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&count_private=true&show_icons=true&theme=radical" />
    <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=radical" />
-   <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif"/>
-   
+<!--    <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif"/> -->
   </div>
   
   <br><br>
