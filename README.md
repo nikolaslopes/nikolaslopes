@@ -1,6 +1,25 @@
 <h2>Oiii! Eu sou o Nikolas Lopes <img src="tic-computer-icon.svg" alt="robot" align="center" height="30"></h2>
  <div>
+ 
+  ![image](https://media0.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif?cid=790b76112bd21fdca5a2ffd205ccdbb814b155f450329926&rid=giphy.gif&ct=g)
+ 
+ <div>
+  
+   ![nix-gif](https://media3.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif?cid=790b76119edce89cd19e7df5869b409d648fa178b1bf6783&rid=giphy.gif&ct=g)
+
+  
+ </div>
+ 
+ <div align="center">
+  
+   ![image](https://user-images.githubusercontent.com/83810486/139331138-c1e8b8fd-3db7-4e65-85d9-9d5430ed6e70.png)
+ 
+ </div>
+
+ 
+ 
   <a href="https://github.com/nikolaslopes">
+   
   <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&count_private=true&show_icons=true&theme=radical" />
   <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=radical" />
 </div>
@@ -30,4 +49,6 @@
   
   ![Snake animation](https://github.com/nikolaslopes/nikolaslopes/blob/output/github-contribution-grid-snake.svg)
 </div>
+
  
+
