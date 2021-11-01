@@ -1,7 +1,5 @@
-
 <main> 
   <a href="https://github.com/nikolaslopes">
-
   <h2>Oiii! Eu sou o Nikolas Lopes <img src="tic-computer-icon.svg" alt="robot" align="center" height="30"></h2>
 
   ![image-nix](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
