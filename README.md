@@ -24,11 +24,12 @@
     <img alt="Nix-Nodejs" width="40" height="35" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
     <img alt="Nix-Docker" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" />
     <img alt="Nix-Git" width="40" height="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />  
+    <img alt="Nix-avatar" width="140" height="140" align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/baji.jpeg" />
   </div>
    
    <br>
     
- <div>
+ <div style="display: block">
     <a 
        href="https://www.instagram.com/nicks.js/" target="_blank">
        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -41,7 +42,6 @@
        href="mailto: nikolaslopes.dev@gmail.com" target="_blank">
        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <img alt="Nix-avatar" width="140" height="140" align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/baji.jpeg" />
   </div>
       
      
