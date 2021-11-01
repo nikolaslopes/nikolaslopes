@@ -5,7 +5,7 @@
 
   <h2>Oiii! Eu sou o Nikolas Lopes <img src="tic-computer-icon.svg" alt="robot" align="center" height="30"></h2>
 
-  ![image-nix](https://user-images.githubusercontent.com/83810486/139674764-b0d0f446-4321-41a2-8ae8-39bf141ba6d1.png)
+  ![image-nix](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 
   <div>
    <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&count_private=true&show_icons=true&theme=radical" />
