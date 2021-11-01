@@ -28,7 +28,7 @@
    
    <br>
     
-  <div>
+ <div>
     <a 
        href="https://www.instagram.com/nicks.js/" target="_blank">
        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -41,10 +41,9 @@
        href="mailto: nikolaslopes.dev@gmail.com" target="_blank">
        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    
-  
+    <img alt="Nix-avatar" width="140" height="140" align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/baji.jpeg" />
   </div>
-      <img alt="Nix-avatar" width="140" height="140" align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/baji.jpeg" />
+      
      
    ![Snake animation](https://github.com/nikolaslopes/nikolaslopes/blob/output/github-contribution-grid-snake.svg)
     
