@@ -12,7 +12,7 @@
    <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif"/>
   </div>
   
-    <br>
+   <br>
    
   <div style="display: inline_block">
     <img alt="Nix-Js" width="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
@@ -26,16 +26,16 @@
     <img alt="Nix-Git" width="40" height="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />  
   </div>
    
-    <br>
+   <br>
     
   <div>
       <a href="https://www.instagram.com/nicks.js/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/nikolas-lopes-b06524209/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       <a href="mailto: nikolaslopes.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
-      <img alt="Nix-avatar" width="140" height="140" align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/avatar_nix.jpg?raw=true" />
+          
+    <img alt="Nix-avatar" width="140" height="140" align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/avatar_nix.jpg?raw=true" />
 
-   
    ![Snake animation](https://github.com/nikolaslopes/nikolaslopes/blob/output/github-contribution-grid-snake.svg)
 </main>
  
