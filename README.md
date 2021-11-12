@@ -42,7 +42,6 @@
     </a>
   </div>
       
-     
    ![Snake animation](https://github.com/nikolaslopes/nikolaslopes/blob/output/github-contribution-grid-snake.svg)
     
 </main>
