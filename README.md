@@ -24,6 +24,7 @@
     <img alt="Nix-Python" width="40" height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
     <img alt="Nix-Yarn" width="40" height="35" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" />
     <img alt="Nix-React" width="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+    <img alt="Nix-Docker" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
     <img alt="Nix-Sass" width="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
     <img alt="Nix-Nodejs" width="40" height="35" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
     <img alt="Nix-Docker" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" />
