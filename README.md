@@ -23,10 +23,9 @@
     <img alt="Nix-Webpack" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" />
     <img alt="Nix-React" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
     <img alt="Nix-Redux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-    <img alt="Nix-Docker" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
     <img alt="Nix-Sass" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
     <img alt="Nix-Nodejs" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
-    <img alt="Nix-Docker" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img alt="Nix-Docker" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
     <img alt="Nix-Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />  
     <img alt="Nix-avatar" width="140" height="140" align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/baji.jpeg" />
   </div>
