@@ -11,7 +11,7 @@
    </div>
     
   <div align="center">
-   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=algolia" />
+   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=algolia&hide=html, css" />
    <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif"/>
   </div>
   
