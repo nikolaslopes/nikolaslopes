@@ -12,9 +12,8 @@
     
   <div align="center">
    <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=algolia&hide=html,css,c" />
-   <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif"/>
   </div>
-  
+     
   <br>
    
   <div style="display: inline_block">
@@ -35,10 +34,6 @@
    <br>
     
  <div style="display: block">
-<!--     <a 
-       href="https://www.instagram.com/nicks.js/" target="_blank">
-       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a> -->
     <a 
        href="https://www.linkedin.com/in/nikolas-lopes-b06524209/" target="_blank" rel="noopener">
        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
