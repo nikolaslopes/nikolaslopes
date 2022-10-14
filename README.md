@@ -11,7 +11,7 @@
    </div>
     
   <div align="center">
-   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=algolia&hide=html,css,c" />
+   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=algolia&hide=html,css,c,svelte,python,shell" />
   </div>
      
   <br>
