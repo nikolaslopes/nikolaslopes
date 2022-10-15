@@ -35,7 +35,7 @@
     
  <div style="display: block">
     <a 
-       href="https://www.linkedin.com/in/nikolas-lopes-b06524209/" target="_blank" rel="noopener">
+       href="https://www.linkedin.com/in/nikolaslopes/" target="_blank" rel="noopener">
        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a 
