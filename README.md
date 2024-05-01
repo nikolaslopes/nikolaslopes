@@ -28,22 +28,5 @@
     <img alt="Nix-Docker" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
     <img alt="Nix-GitLab" width="40" height="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />  
     <img alt="Nix-Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />  
-    <img alt="Nix-avatar" width="140" height="140" align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/baji.jpeg" />
   </div>
-   
-   <br>
-    
- <div style="display: block">
-    <a 
-       href="https://www.linkedin.com/in/nikolaslopes/" target="_blank" rel="noopener">
-       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a 
-       href="mailto: nikolaslopes.dev@gmail.com" target="_blank">
-       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-  </div>
-      
-   ![Snake animation](https://github.com/nikolaslopes/nikolaslopes/blob/output/github-contribution-grid-snake.svg)
-    
 </main>
