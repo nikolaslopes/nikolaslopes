@@ -1,7 +1,6 @@
 <main> 
   <a href="https://github.com/nikolaslopes">
   <h2>Hi, I'm Nick! <img src="tic-computer-icon.svg" alt="robot" align="center" height="30"></h2>
-<!--   ![image-nix](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263) -->
     
   ![image-nix](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
@@ -16,7 +15,7 @@
      
   <br>
    
-  <div style="display: inline_block">
+  <div style="display: inline_block" align="center">
     <img alt="Nix-Js" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
     <img alt="Nix-Ts" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
     <img alt="Nix-Webpack" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" />
