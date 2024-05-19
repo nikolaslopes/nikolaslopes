@@ -19,6 +19,6 @@
       <img src="https://skillicons.dev/icons?i=js,ts,html,css,docker,redux,jest,sass,styledcomponents,react,nextjs,nodejs,nestjs,tailwind" />
     </a>
   </div>
-
-  ![snake gif](https://github.com/nikolaslopes/nikolaslopes/blob/output/github-contribution-grid-snake.gif)
+  
+  ![snake animation](https://github.com/nikolaslopes/nikolaslopes/blob/output/github-contribution-grid-snake.svg)
 </main>
