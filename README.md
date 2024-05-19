@@ -1,6 +1,5 @@
 <main> 
-  <a href="https://github.com/nikolaslopes">
-  <h3>Hi, I'm Nick!</h3>
+  <p>Hi, I'm Nick!</p>
     
   ![image-nix](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
@@ -17,7 +16,7 @@
    
   <div style="display: inline_block" align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,docker,redux,jest,sass,styledcomponents,nodejs,nestjs,react,tailwind" />
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,docker,nextjs,redux,jest,sass,styledcomponents,nodejs,nestjs,react,tailwind" />
     </a>
   </div>
 </main>
