@@ -4,7 +4,7 @@
 
    <div align="center">
       <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&count_private=true&show_icons=true&theme=algolia" />
-      <img height=160em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somekindofwallflower&theme=algolia" alt="nikolaslopes" />
+      <img height=160em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaslopes&theme=algolia" alt="nikolaslopes" />
    </div>
     
   <div align="center">
