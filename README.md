@@ -12,7 +12,7 @@
    
   <div style="display: inline_block" align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,docker,redux,jest,sass,styledcomponents,react,nextjs,nodejs,nestjs,tailwind&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,docker,redux,jest,sass,styledcomponents,react,nextjs,nodejs,tailwind&theme=dark" />
     </a>
   </div>
   
