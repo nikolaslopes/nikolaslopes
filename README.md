@@ -4,7 +4,7 @@
 
    <div align="center">
       <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&count_private=true&show_icons=true&theme=algolia" />
-      <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=algolia&hide=html,css,c,svelte,python,shell" />
+      <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=algolia&hide=html,css,c,svelte,python,shell7" />
    </div>
      
   <br>
@@ -12,7 +12,7 @@
    
   <div style="display: inline_block" align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,docker,redux,jest,sass,styledcomponents,react,nextjs,nodejs,nestjs,tailwind" />
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,docker,redux,jest,sass,styledcomponents,react,nextjs,nodejs,nestjs,tailwind&theme=dark" />
     </a>
   </div>
   
